@@ -31,3 +31,5 @@ The following table explains the control mapping based on the number of fingers 
 
 ---
 ### If you give me a tip for the game, it's easier to control it by holding your hand as if you're holding something and then making a motion that only opens when you jump
+---
+#### Dino synth is made with prompt engineering for fun, and you can think of it as synth using motion capture. Try to use it in a fun way because the pitch of the sound is recognized as the volume of the sound up and down the object
